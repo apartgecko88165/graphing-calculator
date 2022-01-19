@@ -1,0 +1,1 @@
+/home/fbow/Desktop/apps/emsdk/emsdk/upstream/emscripten/em++  -s USE_GLFW=3 -s ASSERTIONS=1 -s WASM=1 -s ASYNCIFY @CMakeFiles/example.dir/objects1.rsp -o example.html @CMakeFiles/example.dir/linklibs.rsp
